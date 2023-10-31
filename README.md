@@ -1,3 +1,4 @@
 # Future-friendly.
-This is my first Get repository
-Author - Muhammad ALi
+This is my first Get repository.
+<br>
+Author: Muhammad _ ALi
